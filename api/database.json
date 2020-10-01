@@ -1,0 +1,66 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "commonName": "Sunflower",
+            "color": "yellow"
+        },
+        {
+            "id": 2,
+            "commonName": "Bluebonnet",
+            "color": "blue"
+        },
+        {
+            "id": 3,
+            "commonName": "Rose",
+            "color": "red"
+        },
+        {
+            "id": 4,
+            "commonName": "Violet",
+            "color": "blue"
+        },
+        {
+            "id": 5,
+            "commonName": "Daisy",
+            "color": "yellow"
+        }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Flower Shop",
+            "city": "London",
+            "state": "Bridge",
+            "address": "222 Hoop St"
+        },
+        {
+            "id": 2,
+            "name": "Becky's Flowers",
+            "city": "Apple",
+            "state": "Pie",
+            "address": "555 Potato Rd"
+        },
+        {
+            "id": 3,
+            "name": "Flower Holiday",
+            "city": "Beetle",
+            "state": "Juice",
+            "address": "222 Hoop St"
+        },
+        {
+            "id": 4,
+            "name": "Flower Hour",
+            "city": "Simple",
+            "state": "Place",
+            "address": "111 Hananana Ct"
+        },
+        {
+            "id": 5,
+            "name": "You're a Flower",
+            "city": "A",
+            "state": "Field",
+            "address": "444 Boo Ave"
+        }
+    ]
+}
