@@ -29,6 +29,7 @@
     "retailers": [
         {
             "id": 1,
+            "distributorId": 1,
             "name": "Flower Shop",
             "city": "London",
             "state": "Bridge",
@@ -36,6 +37,7 @@
         },
         {
             "id": 2,
+            "distributorId": 3,
             "name": "Becky's Flowers",
             "city": "Apple",
             "state": "Pie",
@@ -43,6 +45,7 @@
         },
         {
             "id": 3,
+            "distributorId": 2,
             "name": "Flower Holiday",
             "city": "Beetle",
             "state": "Juice",
@@ -50,6 +53,7 @@
         },
         {
             "id": 4,
+            "distributorId": 3,
             "name": "Flower Hour",
             "city": "Simple",
             "state": "Place",
@@ -57,10 +61,34 @@
         },
         {
             "id": 5,
+            "distributorId": 1,
             "name": "You're a Flower",
             "city": "A",
             "state": "Field",
             "address": "444 Boo Ave"
+        }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Distribute Things",
+            "city": "Po",
+            "state": "Tato",
+            "address": "789 Mississippi"
+        },
+        {
+            "id": 2,
+            "name": "We Distribute",
+            "city": "Ba",
+            "state": "Nana",
+            "address": "456 Amazon"
+        },
+        {
+            "id": 3,
+            "name": "Distrubutes 'R' Us",
+            "city": "Cracker",
+            "state": "Jack",
+            "address": "123 Nile"
         }
     ]
 }
