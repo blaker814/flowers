@@ -90,5 +90,131 @@
             "state": "Jack",
             "address": "123 Nile"
         }
+    ],
+    "nurseries": [
+        {
+            "id": 1,
+            "name": "Nursery Rhymes"
+        },
+        {
+            "id": 2,
+            "name": "We Take Care of Flowers"
+        },
+        {
+            "id": 3,
+            "name": "Flowers Grow Here"
+        },
+        {
+            "id": 4,
+            "name": "Dr. Seuss"
+        },
+        {
+            "id": 5,
+            "name": "Mother Goose"
+        }
+    ],
+    "nurseryFlowers": [
+        {
+            "id": 1,
+            "flowerId": 2,
+            "nurseryId": 2
+        },
+        {
+            "id": 2,
+            "flowerId": 4,
+            "nurseryId": 2
+        },
+        {
+            "id": 3,
+            "flowerId": 1,
+            "nurseryId": 1
+        },
+        {
+            "id": 4,
+            "flowerId": 3,
+            "nurseryId": 1
+        },
+        {
+            "id": 5,
+            "flowerId": 5,
+            "nurseryId": 3
+        },
+        {
+            "id": 6,
+            "flowerId": 4,
+            "nurseryId": 3
+        },
+        {
+            "id": 7,
+            "flowerId": 1,
+            "nurseryId": 4
+        },
+        {
+            "id": 8,
+            "flowerId": 2,
+            "nurseryId": 4
+        },
+        {
+            "id": 9,
+            "flowerId": 3,
+            "nurseryId": 5
+        },
+        {
+            "id": 10,
+            "flowerId": 5,
+            "nurseryId": 5
+        }
+    ],
+    "nurseryDistributors": [
+        {
+            "id": 1,
+            "distributorId": 1,
+            "nurseryId": 1
+        },
+        {
+            "id": 2,
+            "distributorId": 1,
+            "nurseryId": 2
+        },
+        {
+            "id": 3,
+            "distributorId": 2,
+            "nurseryId": 3
+        },
+        {
+            "id": 4,
+            "distributorId": 2,
+            "nurseryId": 4
+        },
+        {
+            "id": 5,
+            "distributorId": 3,
+            "nurseryId": 5
+        },
+        {
+            "id": 6,
+            "distributorId": 3,
+            "nurseryId": 1
+        },
+        {
+            "id": 7,
+            "distributorId": 4,
+            "nurseryId": 2
+        },
+        {
+            "id": 8,
+            "distributorId": 4,
+            "nurseryId": 3
+        },
+        {
+            "id": 9,
+            "distributorId": 5,
+            "nurseryId": 4
+        },
+        {
+            "id": 10,
+            "distributorId": 5,
+            "nurseryId": 5
+        }
     ]
 }
