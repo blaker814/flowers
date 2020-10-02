@@ -9,7 +9,7 @@ const render = (flowers) => {
     const contentTarget = document.querySelector("body")
     const HTMLRep = flowers.map(flower => FlowerHTML(flower)).join("")
 
-    contentTarget.innerHTML = `
+    contentTarget.innerHTML += `
         <section>
             <h2>Flowers</h2>
             ${HTMLRep}
